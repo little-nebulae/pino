@@ -34,6 +34,7 @@
     "@arethetypeswrong/core": "0.18.5",
     "@little-nebulae/error": "1.4.0",
     "@little-nebulae/json": "0.5.1",
+    "@little-nebulae/log": "0.1.0",
     "@little-nebulae/node-env": "0.4.0",
     "@little-nebulae/node-fs": "0.2.0",
     "@little-nebulae/result": "1.4.0",
@@ -54,6 +55,7 @@
   "peerDependencies": {
     "@little-nebulae/error": "^1.0.0",
     "@little-nebulae/json": "0",
+    "@little-nebulae/log": "0",
     "@little-nebulae/node-env": "0",
     "@little-nebulae/node-fs": "0",
     "@little-nebulae/result": "^1.0.0",
