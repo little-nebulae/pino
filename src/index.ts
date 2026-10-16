@@ -1,1 +1,1 @@
-console.log("Hello world!");
+export type * from "@/types";

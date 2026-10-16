@@ -1,3 +1,3 @@
 import type { StructuredCloneable } from "type-fest";
 
-export type TransportOptions<T extends StructuredCloneable> = T;
+export type PinoTransportOptions<T extends StructuredCloneable> = T;
