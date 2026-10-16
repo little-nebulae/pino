@@ -5,7 +5,7 @@ import {
 } from "@little-nebulae/zod";
 import { z } from "zod";
 
-export const PinoLogSchema = z.object({
+export const PinoLogSchema = z.looseObject({
   level: z.number(),
   time: PositiveIntegerSchema,
   pid: PositiveIntegerSchema,
